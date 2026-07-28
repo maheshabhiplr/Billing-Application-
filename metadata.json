@@ -1,0 +1,6 @@
+{
+  "name": "Malayalam Store Billing",
+  "description": "100% Offline Malayalam billing, customer ledger, daily product price manager, and Indian Rupee PDF invoice generator with kg/gram quantity support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
